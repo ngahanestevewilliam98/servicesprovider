@@ -8,9 +8,9 @@ using Xamarin.Forms;
 
 namespace servicesprovider
 {
-    public partial class MainPage : ContentPage
+    public partial class AccueilPage : ContentPage
     {
-        public MainPage()
+        public AccueilPage()
         {
             InitializeComponent();
         }

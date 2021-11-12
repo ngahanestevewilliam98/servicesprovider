@@ -10,7 +10,7 @@ namespace servicesprovider
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new ConnexionPage();
         }
 
         protected override void OnStart()
